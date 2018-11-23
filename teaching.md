@@ -8,7 +8,7 @@ permalink: /teaching/
 ### **University of Georgia**
 
 **Ecology Lab (ECOL 3500L)**  
-The lab accompanys the introductory ecology lecture. The weekly labs contains computer exercises and field trips. The central theme is to reinforce core concepts in ecology through hands on experiences and teach students the process of scientific research, including designing experiment, analyzing data analysis, and writing scientific paper.
+The lab accompanys the introductory ecology lecture. The weekly lab contains computer exercises and field trips. The central goal is to reinforce core concepts in ecology through hands on experiences and teach students the process of scientific research, including designing experiment, analyzing data, and writing scientific paper.
 
 ### **University of Kansas**
 
