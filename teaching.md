@@ -19,7 +19,7 @@ permalink: /teaching/
 
 ### Guest Lecture
 
-Consumer–Resource Dynamics, Ecology (ECOL 3500), University of Georgia
-
-Generalized Linear Model, Likelihood Based Inference in Ecology (ECOL 8990), University of Georgia
+Consumer–Resource Dynamics, Ecology (ECOL 3500), University of Georgia  
+Generalized Linear Model, Likelihood Based Inference in Ecology (ECOL 8990), University of Georgia  
+Bayesian Statistics, Likelihood Based Inference in Ecology (ECOL 8990), University of Georgia
 
