@@ -19,7 +19,7 @@ The lab accompanys the first half of the introductory biology lecture and covers
 The lab accompanys the second half of the introductory biology lecture and covers basic elements of plant and animal morphology and physiology, principles of evolution, organismal diversity and phylogeny, population biology, population genetics, ecology, and behavior.
 
 **Introduction to Biostatistics Lab (BIOL 570)**  
-The lab accompanys the introduction to biostatistics lectures and teach students essential cocnepts in biostatistics through analyses of example data sets. Topics include the scientific method, data representation, descriptive statistics, elementary probability distributions, estimation and hypothesis testing, emphasizing the analysis of variance.
+The lab accompanys the introduction to biostatistics lecture and teach students essential cocnepts in biostatistics through analyses of example data sets. Topics include the scientific method, data representation, descriptive statistics, elementary probability distributions, estimation and hypothesis testing, emphasizing the analysis of variance.
 
 ### **Guest Lecture**
 
