@@ -16,7 +16,7 @@ Geng, Y., F. Baumann, **C. Song**, M. Zhang, Y. Shi, P. Kühn, T. Scholten, and 
 
 **Song, C.**, W.K. Dodds, M.T. Trentman, J. Rüegg, and F. Ballantyne. (2016) Methods of approximation influence aquatic ecosystem metabolism estimates. Limnology and Oceanography: Methods, 14(9): 557--569. [[Link]](https://aslopubs.onlinelibrary.wiley.com/doi/abs/10.1002/lom3.10112)
 
-**Song, C.**, F. Ballantyne, and V.H. Smith. (2014) Enhanced dissolved organic carbon production in aquatic ecosystems in response to elevated atmospheric CO<sub>2</sub>. Biogeochemistry, 118(1--3): 49--60. [[Link]](https://link.springer.com/article/10.1007/s10533-013-9904-7)
+**Song, C.**, F. Ballantyne, and V.H. Smith. (2014) Enhanced dissolved organic carbon production in aquatic ecosystems in response to elevated atmospheric CO<sub>2</sub>. Biogeochemistry, 118: 49--60. [[Link]](https://link.springer.com/article/10.1007/s10533-013-9904-7)
 
 Shi, Y., F. Baumann, Y. Ma, **C. Song**, P. Kühn, T. Scholten, and J.-S. He. (2012) Organic and inorganic carbon in the topsoil of the Mongolian and Tibetan grasslands: pattern, control and implications. Biogeosciences, 9(6): 2287--2299. [[Link]](https://www.biogeosciences.net/9/2287/2012/bg-9-2287-2012.html)
 
