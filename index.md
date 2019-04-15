@@ -2,7 +2,6 @@
 layout: default
 title: Home
 ---
-
 <img align="left" src="/files/song_potrait.jpg" width="150" style="margin:5px 20px 2px 2px;"/>
 
 I am a quantitative ecosystem ecologist. My research spans multiple subfields of ecology but shares a unified theme of linking empirical patterns to the processes generating them. I strive to search for universalities in ecology. I also have a keen interest in statistics and its application in ecology.
