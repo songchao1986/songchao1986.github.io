@@ -11,8 +11,7 @@ I am a quantitative ecosystem ecologist. My research spans multiple subfields of
 </p>
 <br clear="left"/>
 
-<hr>
-
+---  
 ## News
 
 **5/21/2018**  
