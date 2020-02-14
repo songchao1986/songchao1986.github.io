@@ -6,6 +6,10 @@ permalink: /publications/
 
 ## Publications 
 
+Rüegg, J., D.T. Chaloner, F. Ballantyne, P.S. Levi, **C. Song**, J.L. Tank, S.D. Tiegs, and G.A. Lamberti. (In press). Understanding the relative roles of salmon sapwner enrichment and disturbance: a high-frequency, multi-habitat field and modeling approach. Frontiers in Ecology and Evolution. [[Link]](https://www.frontiersin.org/articles/10.3389/fevo.2020.00019/full)
+
+Wang, Y., **C. Song**, H. Liu, S. Wang, H. Zeng, C. Luo, and J.-S. He (In press). Precipitation determines the magnitude and direction of interannual responses to soil respiration to experimental warming. Plant and Soil. [[Link]](https://link.springer.com/article/10.1007/s11104-020-04438-y)
+
 **Song, C.**, W.K. Dodds, J. Rüegg, A. Argerich, C.L. Baker, W.B. Bowden, M.M. Douglas, K.J. Farrell, M.B. Flinn, E.A. Garcia, A. M. Helton, T.K. Harms, S. Jia, J.B. Jones, L.E. Koenig, J.S. Kominoski, W.H. McDowell, D. McMaster, S.P. Parker, A.D. Rosemond, C.M. Ruffing, K.R. Sheehan, M.T. Trentman, M.R. Whiles, W.M. Wollheim, and F. Ballantyne. (2018) Continental-scale decrease in net primary productivity in streams due to climate warming. Nature Geoscience, 11(6): 415--420. [[Link]](https://www.nature.com/articles/s41561-018-0125-5)
 
 Wang, Y., **C. Song**, L. Yu, Z. Mi, S. Wang, H. Zeng, C. Fang, J. Li, and J.-S. He. (2018) Convergence in temperature sensitivity of soil respiration: evidence from the Tibetan alpine grasslands. Soil Biology and Biochemistry, 122: 50--59. [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S003807171830124X)
