@@ -6,7 +6,7 @@ permalink: /publications/
 
 ## Publications 
 
-**Song, C.**, S.D. Peacor, C.W. Osenberg, and J.R. Bence (In press). An assessment of statistical methods for non-independent data in ecological meta-analyses. Ecology. [[Link]](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.3184)
+**Song, C.**, S.D. Peacor, C.W. Osenberg, and J.R. Bence (2020). An assessment of statistical methods for non-independent data in ecological meta-analyses. Ecology, 101(12): e03184. [[Link]](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.3184)
 
 Rüegg, J., D.T. Chaloner, F. Ballantyne, P.S. Levi, **C. Song**, J.L. Tank, S.D. Tiegs, and G.A. Lamberti. (2020). Understanding the relative roles of salmon sapwner enrichment and disturbance: a high-frequency, multi-habitat field and modeling approach. Frontiers in Ecology and Evolution, 8: 19. [[Link]](https://www.frontiersin.org/articles/10.3389/fevo.2020.00019/full)
 
