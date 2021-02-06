@@ -6,7 +6,7 @@ permalink: /publications/
 
 ## Publications 
 
-Wang, Y., **C. Song**, H. Liu, S. Wang, H. Zeng, C. Luo, and J.-S. He (2021). Precipitation determines the magnitude and direction of interannual responses to soil respiration to experimental warming. Plant and Soil， 458: 75--91. [[Link]](https://link.springer.com/article/10.1007/s11104-020-04438-y)
+Wang, Y., **C. Song**, H. Liu, S. Wang, H. Zeng, C. Luo, and J.-S. He (2021). Precipitation determines the magnitude and direction of interannual responses to soil respiration to experimental warming. Plant and Soil, 458: 75--91. [[Link]](https://link.springer.com/article/10.1007/s11104-020-04438-y)
 
 **Song, C.**, S.D. Peacor, C.W. Osenberg, and J.R. Bence (2020). An assessment of statistical methods for non-independent data in ecological meta-analyses. Ecology, 101(12): e03184. [[Link]](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.3184)
 
