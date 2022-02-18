@@ -6,5 +6,5 @@ title: Home
 
 I am a quantitative ecosystem ecologist. My research focuses on understanding ecosystem processes under changing environments. I employ both experimental and modeling approaches in my research. I also have a keen interest in statistics and its application in ecology.</p>
 
-I am currently a postdoctoral research associate advised by Jay Zarnetske at Michigan State University. Please visit my <a href="https://scholar.google.com/citations?user=farbSBEAAAAJ&hl=en">Google Scholar</a> or <a href="https://orcid.org/0000-0001-8225-4490">ORCiD</a> pages, or download my <a href="/files/CV_Song.pdf">CV</a> for more information. I occasionally write <a href="http://songchao1986.wordpress.com">blogs</a> to share my thoughts and experiences in research.
+I am currently a professor in College of Ecology at Lanzhou University. Please visit my <a href="https://scholar.google.com/citations?user=farbSBEAAAAJ&hl=en">Google Scholar</a> or <a href="https://orcid.org/0000-0001-8225-4490">ORCiD</a> pages, or download my <a href="/files/CV_Song.pdf">CV</a> for more information.
 <br clear="left"/>
