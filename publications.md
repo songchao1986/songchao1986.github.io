@@ -6,6 +6,8 @@ permalink: /publications/
 
 ## Publications 
 
+Wollheim, W.M., T.K. Harms, A.L. Robinson, L.E. Koenig, A.M. Helton, **C. Song**, W.B. Bowden, and J.C. Finlay (2022) Superlinear scaling of riverine biogeochemical function with watershed size. Nature Communications, 13: 1230. [[Link]](https://www.nature.com/articles/s41467-022-28630-z)
+
 **Song, C.**, S.D. Peacor, C.W. Osenberg, and J.R. Bence (2022). An assessment of statistical methods for non-independent data in ecological meta-analyses: Reply. Ecology, 103(1): e03578. [[Link]](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.3578)
 
 Wang, Y., **C. Song**, H. Liu, S. Wang, H. Zeng, C. Luo, and J.-S. He (2021). Precipitation determines the magnitude and direction of interannual responses of soil respiration to experimental warming. Plant and Soil, 458: 75--91. [[Link]](https://link.springer.com/article/10.1007/s11104-020-04438-y)
