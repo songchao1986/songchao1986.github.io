@@ -1,7 +1,7 @@
 title: Chao Song
 author: Chao Song
-email: chaosong@msu.edu
-description: Chao Song, Postdoctoral research associate in the Department of Fisheries and Wildlife at Michigan State University, PhD from Odum School of Ecology at the University of Georgia.
+email: chaosong@lzu.edu.cn
+description: Chao Song, Professor at College of Ecology, Lanzhou University.
   
 # social links
 # twitter_username: chaosong
@@ -45,4 +45,4 @@ plugins:
  - jekyll-feed
  - jekyll-seo-tag
  
-google_analytics: UA-119900204-1
+google_analytics: G-HMN7485D55
