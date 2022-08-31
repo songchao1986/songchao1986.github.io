@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-<p><img align="left" src="/files/song_potrait.jpg" width="150" style="margin:5px 20px 2px 2px;"/>
+<p><img align="left" src="/files/Song_profile.jpg" width="150" style="margin:5px 20px 2px 2px;"/>
 
 I am a quantitative ecosystem ecologist. My research focuses on understanding ecosystem processes under changing environments. I employ both experimental and modeling approaches in my research. I also have a keen interest in statistics and its application in ecology.</p>
 
